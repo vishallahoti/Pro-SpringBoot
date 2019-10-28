@@ -107,8 +107,7 @@ Benefits:
 
 # Video 15:(How Spring MVC works - The View Tier)
 
-
-
+![How Spring MVC Works](MVC.png)
 
 Spring MVC framework takes care of converting returned response into JSON.
 
@@ -117,7 +116,8 @@ REST API deals with entities or noun as resources.
 
 Resources: Topic,Course,Lesson
 A topic can have multiple courses and a course can have multiple lessons.
- 
+
+![Course Management API's](topicApis.png) 
 
 # Video 17:(Creating a Business Service)
 Service - In spring business service are singletons. When the application starts up it creates an instance of this services it keeps it in memory it registers that instance and other service other classes  or other controllers which depend on this. It declares a dependency and spring injects them.
@@ -223,6 +223,8 @@ Steps 1:
 2. With Spring Boot 2.0.0 you need to use /actuator/health Also, in the application properties file, you have to add the following line in order to see the details when using the /actuator/health endpoint. management.endpoint.health.show-details=always
 
 # Video 34:(Wrap UP)
+
+![Summing up the Course](wrapup.png) 
 
 
 
