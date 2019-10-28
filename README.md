@@ -8,6 +8,13 @@ https://javabrains.io/courses/spring_bootquickstart/
 
 # For Documentation and Code take the clone and refer this Documentation
 
+# Postman collection here for course-api:
+https://www.getpostman.com/collections/c89f6a546708e1aeb96b
+
+# Postman Collection here for course-api-data :
+https://www.getpostman.com/collections/8777bb720eca8bffc705
+
+
 # UNIT 1:(Introducing Spring Boot)
 
 # Video 1:(Introduction)
